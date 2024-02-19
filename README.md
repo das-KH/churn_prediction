@@ -1,2 +1,4 @@
-# churn_prediction
-Customer churn prediciton using MLP, Random Forest, and XGBoost
+# Churn Prediction Using MLP, Random Forest and XGBoost
+---
+
+Predicting the churn porbabilites on the Sunbase Dataset using MLP, Random Forest, and XGBoost
